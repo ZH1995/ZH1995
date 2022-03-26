@@ -6,6 +6,10 @@
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have built online judge based on HUSTOJ. I am really enthusiastic about learning new technology. In 2022, I learned **Golang**, **Kubernetes** and **Docker**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~0199917cd364db77e2) and [**Blogging**](https://dev.to/zh1995) quite recently and made a name for myself.
 
+## 🏅 Achievements
+
+-   📝 Finish **Scalable Microservices with Kubernetes** class on udacity (Mar. 2022)
+
 ## 🛠️ Skills
 
 ### Languages
