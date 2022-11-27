@@ -32,7 +32,7 @@
 
 TODO...
 
-Want to read more? [Check out all the blogs](https://dev.to/zh1995)
+Want to read more? [Check out all the blogs](https://zh1995.netlify.app/)
 
 
 ## 🔗 Links
