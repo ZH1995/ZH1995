@@ -4,7 +4,7 @@
 
 🎓 I am ZH1995, a **Back End Web Developer** (specializing in **Php/Go Applications**) .My Bachelor is **Software Engineering** and graduate in mid-2017.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have built online judge based on HUSTOJ. I am really enthusiastic about learning new technology. In 2022, I learned **Golang**, **Kubernetes** and **Docker**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~0199917cd364db77e2) and [**Blogging**](https://dev.to/zh1995) quite recently and made a name for myself.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have built online judge based on HUSTOJ. I am really enthusiastic about learning new technology. In 2022, I learned **Golang**, **Kubernetes** and **Docker**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~0199917cd364db77e2) and [**Blogging**](https://zh1995.github.io/) quite recently and made a name for myself.
 
 ## 🏅 Achievements
 
