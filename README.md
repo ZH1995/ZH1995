@@ -4,13 +4,15 @@
 
 🎓 I am ZH1995, a **Back End Web Developer** (specializing in **Php/Go Applications**) .My Bachelor is **Software Engineering** and graduate in mid-2017.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have built online judge based on HUSTOJ. I am really enthusiastic about learning new technology. In 2022, I learned **Golang**, **Kubernetes** and **Docker**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~0199917cd364db77e2) and [**Blogging**](https://zh1995.github.io/) quite recently and made a name for myself.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have built online judge based on HUSTOJ. I am really enthusiastic about learning new technology. In 2022, I learned **Golang**, **Kubernetes** and **Docker**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~0199917cd364db77e2) and [**Blogging**](https://zh1995.github.io/CSStudyGuide/) quite recently and made a name for myself.
 
 ❤️ In 2024, my baby had borned.
 
 ## 🏅 Achievements
 
--   📝 Finish **Scalable Microservices with Kubernetes** class on udacity (Mar. 2022)
+-   [x] **Scalable Microservices with Kubernetes** class on udacity (Mar. 2022)
+-   [x] **[Programming for Everybody (Getting Started with Python)](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%204WGEMHBJYSC4.pdf)** class on Coursera （November 2024）.
+-   [x] **[AI For Everyone](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%20REF3L8VYE088.pdf)** class on Coursera （June 2025）
 
 ## 🛠️ Skills
 
@@ -30,12 +32,11 @@
 ![Docker](https://img.shields.io/badge/Docker-0081CB?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-4285F4?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
-## 📝 Top Blog Posts
+## 📝 Recent plans
 
-TODO...
-
-Want to read more? [Check out all the blogs](https://zh1995.netlify.app/)
-
+- [ ] Finish 4 classes on Coursera.
+- [ ] Learning 51 single chip microcomputer
+- [ ] 199 Postgraduate Entrance Examination Study
 
 ## 🔗 Links
 
