@@ -13,6 +13,7 @@
 -   [x] **Scalable Microservices with Kubernetes** class on udacity (Mar. 2022)
 -   [x] **[Programming for Everybody (Getting Started with Python)](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%204WGEMHBJYSC4.pdf)** class on Coursera （November 2024）.
 -   [x] **[AI For Everyone](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%20REF3L8VYE088.pdf)** class on Coursera （June 2025）
+-   [x] **[计算导论与C语言基础](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%20PV6W2K5RPOAO.pdf)** class on Coursera （June 2025）
 
 ## 🛠️ Skills
 
@@ -34,7 +35,7 @@
 
 ## 📝 Recent plans
 
-- [ ] Finish 4 classes on Coursera.
+- [ ] Finish 3 classes on Coursera.
 - [ ] Learning 51 single chip microcomputer
 - [ ] 199 Postgraduate Entrance Examination Study
 
