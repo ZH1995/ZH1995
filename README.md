@@ -14,7 +14,7 @@
 -   [x] **[Programming for Everybody (Getting Started with Python)](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%204WGEMHBJYSC4.pdf)** class on Coursera （November 2024）.
 -   [x] **[AI For Everyone](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%20REF3L8VYE088.pdf)** class on Coursera （June 2025）
 -   [x] **[计算导论与C语言基础](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%20PV6W2K5RPOAO.pdf)** class on Coursera （June 2025）
--   [x[ **[Introduction to Android Mobile Application Development](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%202DQ8I2EIOXEN.pdf)** class on Coursera （June 2026）
+-   [x] **[Introduction to Android Mobile Application Development](https://github.com/ZH1995/Coursera/blob/main/coursera/certificate/Coursera%202DQ8I2EIOXEN.pdf)** class on Coursera （June 2026）
 
 ## 🛠️ Skills
 
