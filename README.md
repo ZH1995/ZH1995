@@ -8,6 +8,10 @@
 
 ❤️ In 2024, my baby had borned.
 
+📚 In 2025, I have obtained the University Teacher Qualification Certificate and the Teaching Assistant Certificate.
+
+🧑‍💻 In 2026, I hope to achieve success in three areas: open source, research projects, and academic papers.
+
 ## 🏅 Achievements
 
 -   [x] **Scalable Microservices with Kubernetes** class on udacity (Mar. 2022)
@@ -33,12 +37,6 @@
 ![Memcached](https://img.shields.io/badge/Memcached-CA4245?style=for-the-badge&logo=Memcached&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0081CB?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-4285F4?style=for-the-badge&logo=Kubernetes&logoColor=white)
-
-## 📝 Recent plans
-
-- [ ] Finish 3 classes on Coursera.
-- [ ] Learning 51 single chip microcomputer
-- [ ] 199 Postgraduate Entrance Examination Study
 
 ## 🔗 Links
 
