@@ -12,6 +12,8 @@
 
 🧑‍💻 In 2026, I hope to achieve success in three areas: open source, research projects, and academic papers.
 
+:email:You can connect to me: 577435302@qq.com
+
 ## 🏅 Achievements
 
 -   [x] **Scalable Microservices with Kubernetes** class on udacity (Mar. 2022)
